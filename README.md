@@ -19,5 +19,3 @@ Fitur: login berbasis `$_SESSION`, CRUD data mahasiswa, validasi dan sanitasi fo
 | `bahasa.php` | Ganti bahasa |
 | `style.css` | Tampilan |
 | `database.sql` | Skrip database |
-
-
